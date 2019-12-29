@@ -11,3 +11,7 @@ def solution(heights):
                 break
             j -= 1
     return answer
+
+print(solution([6,9,5,7,4]))
+print(solution([3,9,9,3,5,7,2]))
+print(solution([1,5,3,6,7,6,5]))
